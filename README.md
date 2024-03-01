@@ -8,4 +8,4 @@ Why: I was very sad cause so few people to knew the Lekian languages. It was cre
 Quick Start:
 Usage:
 ## 
-Contributing: 
+Contributing : 
